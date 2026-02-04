@@ -2,8 +2,11 @@ node_modules
 .next
 dist
 out
+build
+.plasmo
 .env
 .env.local
 .env.*.local
 .vercel
 .DS_Store
+*.log
